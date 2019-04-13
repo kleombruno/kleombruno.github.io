@@ -15,6 +15,9 @@
 	text-decoration: none;
 }
 
+#navMenu {
+	width: 100%;
+}
 
 .navbar-brand{
 	color:black;

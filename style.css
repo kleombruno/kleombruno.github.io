@@ -10,16 +10,14 @@ nav {
 	margin: 0px;
 	color: black;
 	display: block;
-	font-size: 20px;
+	font-size: 18px;
 	text-align: center;
 	text-decoration: none;
 }
 
-#navMenu {
+.row{
 	width: 100%;
 }
-
-
 
 .navbar-brand{
 	color:black;

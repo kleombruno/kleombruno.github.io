@@ -86,10 +86,6 @@ nav {
 }
 
 
-.dropdownMenu {
-	float: left;
-}
-
 #scrapDes {
 	padding:25px;
 	text-align: center;
@@ -118,10 +114,8 @@ nav {
 }
 
 #article {
-	width: 75%;
+	width: 100%;
 	height: 100%;
-	padding-top: 100px;
-	padding-bottom: 100px;
 }
 
 #phone{

@@ -129,3 +129,18 @@ nav {
 	height: 80%;
 	padding: 10px 75px;
 }
+
+#stores {
+	padding-top: 50px;
+	text-align: center;
+	margin: 5px;
+	padding-bottom: 50px;
+	line-height: 2em;
+}
+
+#soflo {
+	height: 100%;
+	width: 100%;
+	padding: 20px;
+	margin: 5px;
+}

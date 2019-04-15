@@ -147,6 +147,7 @@ nav button {
 		display: inline-block;
 		float: right;
 		padding: 0px;
+		margin: 0;
 	}
 }
 

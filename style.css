@@ -80,8 +80,7 @@ nav button {
 	.navbar-toggle{
 		display: block;
 		float: right;
-		margin-right: 25px;
-		margin-top: 5px;
+		margin: 0;
 	}
 
 

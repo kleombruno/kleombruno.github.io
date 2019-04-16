@@ -149,6 +149,18 @@ nav button {
 		padding: 0px;
 		margin: 0;
 	}
+
+	#footer p {
+		font-size: 12px;
+	}
+
+	#footer h6{
+		font-size: 14px;
+	}
+
+	iframe {
+		width: 100%;
+	}
 }
 
 

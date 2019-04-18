@@ -82,7 +82,7 @@ nav button {
 	}
 
 	div button {
-		width: 50px;
+		width: 30px;
 		height: 30px;
 	}
 
@@ -140,10 +140,9 @@ nav button {
 
 	#icon {
 		height: 15px;
-		width: 25px;
-		display: inline;
+		width: 15px;
+		display: inline-block;
 		float: right;
-		margin: 0;
 	}
 
 	#footer p {

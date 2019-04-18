@@ -72,10 +72,7 @@ nav button {
 }
 
 @media screen and (max-width: 500px) {
-	.container-fluid{
-		padding: 0;
-		margin: 0;
-	}
+	
 
 	.navbar-toggle{
 		display: block;
@@ -162,7 +159,7 @@ nav button {
 		width: 100%;
 	}
 
-	#weld{
+	.weld{
 		width: 100%;
 		height: 100%;
 	}
@@ -182,6 +179,10 @@ nav button {
 	#aboutUs p{
 	font-size: 12px;
 	padding: 15px;
+	}
+
+	#homepage{
+		padding: 15px;
 	}
 
 }
@@ -218,7 +219,7 @@ nav button {
 	text-align: center;
 	padding: 20px;
 	line-height: 2em;
-	font-size: 24px;
+	font-size: 20px;
 }
 
 #homePage h1{
@@ -227,16 +228,23 @@ nav button {
 
 }
 
-#homepage img{
+.weld {
 	width: 75%;
 	height: 75%;
 	padding: 20px;
 	margin-top: 75px;
 }
 
+.art {
+	width: 75%;
+	height: 75%;
+	padding: 20px;
+	margin-top: 100px;
+}
+
 
 #homePage p {
-	font-size: 18px;
+	font-size: 14px;
 }
 
 #footer {

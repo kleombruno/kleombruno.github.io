@@ -161,20 +161,45 @@ nav button {
 	iframe {
 		width: 100%;
 	}
+
+	#weld{
+		width: 100%;
+		height: 100%;
+	}
+
+	#headerAdd {
+		display:none;
+	}
+
+	#mobileHours {
+		display: inline-block;
+	}
+
+	form{
+		margin: 15px;
+	}
+
+	#aboutUs p{
+	font-size: 12px;
+	padding: 15px;
+	}
+
 }
 
+#headerHours{
+	display: none;
+}
 
 #header{
 	background-color: black;
-	text-align: center;
 	padding:20px;
 	margin:0px;
+	text-align: center;
 }
 
 #header h1 {
-	font-size: 24px;
+	font-size: 18px;
 	display: inline;
-	padding: 10px;
 	color: white;
 }
 
@@ -191,7 +216,6 @@ nav button {
 
 #homePage {
 	text-align: center;
-	margin: 10px;
 	padding: 20px;
 	line-height: 2em;
 	font-size: 24px;
@@ -202,6 +226,14 @@ nav button {
 	padding-top: 100px;
 
 }
+
+.row img{
+	width: 75%;
+	height: 75%;
+	padding: 20px;
+	margin-top: 75px;
+}
+
 
 #homePage p {
 	font-size: 18px;
@@ -237,12 +269,11 @@ nav button {
 
 .col-sm-4 h3 {
 	text-align: center;
-	padding: 50px 75px; 
+	padding: 30px; 
 }
 
 #aboutUs{
 	text-align: center;
-	padding-top: 100px;
 	line-height: 2em;
 }
 
@@ -250,17 +281,19 @@ nav button {
 	padding: 25px;
 }
 
+
 #article {
 	padding: 20px;
-	margin: 5px;
-	height: 100%;
+	margin-top: 25px;
+	height: 80%;
 	width: 100%;
 }
 
 #phone{
 	width: 80%;
 	height: 80%;
-	padding: 10px 75px;
+	padding: 15px;
+	margin-left: 40px;
 }
 
 #stores {
